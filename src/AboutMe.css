@@ -31,7 +31,7 @@
     margin: auto;
     border: 1px solid white;
     border-radius: 6px;
-    background: url(./img/myPhoto.webp);
+    background: url("https://raw.githubusercontent.com/theanuragshukla/extras/refs/heads/main/portfolio/myPhoto.webp");
     background-size: cover;
     transition-duration: 0.5s;
     -webkit-filter: grayscale(100%);
